@@ -22,7 +22,7 @@ export default function LandingLight() {
           <div className="flex items-center justify-between">
             {/* Logo */}
             <div className="w-[150px] md:w-[250px] lg:w-[395px] h-auto flex-shrink-0">
-              <img src="./src/assets/logo.png" alt="AutoStory Builder" className="w-full h-auto" />
+              <img src="/logo.png" alt="AutoStory Builder" className="w-full h-auto" />
             </div>
 
             {/* Mobile menu button */}
@@ -128,7 +128,7 @@ export default function LandingLight() {
             {/* Right Content - Hero Image */}
             <div className="relative w-full flex justify-center lg:justify-end order-1 lg:order-2">
               <div className="w-full max-w-[450px] md:max-w-[550px] lg:max-w-[669px]">
-                <img src="./src/assets/hero.png" alt="Dashboard mostrando 78% Eficiencia Impresionante con gráficos de datos" className="w-full h-auto rounded-lg shadow-xl" />
+                <img src="/hero.png" alt="Dashboard mostrando 78% Eficiencia Impresionante con gráficos de datos" className="w-full h-auto rounded-lg shadow-xl" />
               </div>
             </div>
           </div>
@@ -151,7 +151,7 @@ export default function LandingLight() {
             {/* Step 1 - SUBE */}
             <div className="flex flex-col md:flex-row items-center md:items-start gap-6 md:gap-8">
               <div className="w-16 h-16 md:w-20 md:h-20 flex-shrink-0 bg-[#041f59] rounded-full flex items-center justify-center">
-                <img src="./src/assets/num1.png" alt="Upload" className="w-10 h-10 md:w-12 md:h-12 object-contain" />
+                <img src="/num1.png" alt="Upload" className="w-10 h-10 md:w-12 md:h-12 object-contain" />
               </div>
               <div className="flex-1 text-center md:text-left">
                 <h3 className="font-['Inter:Regular',sans-serif] text-[24px] md:text-[28px] text-slate-800 mb-3">
@@ -169,7 +169,7 @@ export default function LandingLight() {
             {/* Step 2 - GENERA */}
             <div className="flex flex-col md:flex-row items-center md:items-start gap-6 md:gap-8">
               <div className="w-16 h-16 md:w-20 md:h-20 flex-shrink-0 bg-[#041f59] rounded-full flex items-center justify-center">
-                <img src="./src/assets/num2.png" alt="Generate" className="w-10 h-10 md:w-12 md:h-12 object-contain" />
+                <img src="/num2.png" alt="Generate" className="w-10 h-10 md:w-12 md:h-12 object-contain" />
               </div>
               <div className="flex-1 text-center md:text-left">
                 <h3 className="font-['Inter:Regular',sans-serif] text-[24px] md:text-[28px] text-slate-800 mb-3">
@@ -187,7 +187,7 @@ export default function LandingLight() {
             {/* Step 3 - EXPORTA */}
             <div className="flex flex-col md:flex-row items-center md:items-start gap-6 md:gap-8">
               <div className="w-16 h-16 md:w-20 md:h-20 flex-shrink-0 bg-[#041f59] rounded-full flex items-center justify-center">
-                <img src="./src/assets/num3.png" alt="Export" className="w-10 h-10 md:w-12 md:h-12 object-contain" />
+                <img src="/num3.png" alt="Export" className="w-10 h-10 md:w-12 md:h-12 object-contain" />
               </div>
               <div className="flex-1 text-center md:text-left">
                 <h3 className="font-['Inter:Regular',sans-serif] text-[24px] md:text-[28px] text-slate-800 mb-3">
@@ -235,7 +235,7 @@ export default function LandingLight() {
           <div className="relative rounded-lg overflow-hidden shadow-2xl">
             {/* Main image */}
             <div className="w-full">
-              <img src="./src/assets/mujer.png" alt="Mujer sonriente caminando al aire libre - Historia de transformación" className="w-full h-auto" />
+              <img src="/mujer.png" alt="Mujer sonriente caminando al aire libre - Historia de transformación" className="w-full h-auto" />
             </div>
 
             {/* Overlay text - positioned absolutely on the image */}
@@ -299,7 +299,7 @@ export default function LandingLight() {
             {/* Logo & Description */}
             <div className="space-y-4">
               <div className="w-[180px] md:w-[280px] lg:w-[395px] h-auto">
-                <img src="./src/assets/logo.png" alt="AutoStory Builder" className="w-full h-auto" />
+                <img src="/logo.png" alt="AutoStory Builder" className="w-full h-auto" />
               </div>
               <p className="font-['Inter:Regular',sans-serif] text-[18px] md:text-[24px] text-[#d9d9d9]">
                 La IA que convierte momentos en historia
